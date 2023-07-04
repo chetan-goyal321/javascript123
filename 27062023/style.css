@@ -1,0 +1,14 @@
+*{margin: 0;
+padding: 0;}
+
+
+
+header{
+    background-color: grey;
+    color: white;
+    text-align: center;
+
+}
+.header-nav-span{
+    margin-right: 10vw;
+}
